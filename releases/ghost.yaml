@@ -7,8 +7,6 @@ metadata:
   annotations:
     flux.weave.works/automated: "false"
     flux.weave.works/tag.chart-image: glob:1.21.*
-    flux.weave.works/locked: 'true'
-    flux.weave.works/locked_user: Martin Voznik <martin.voznik@heureka.cz>
 spec:
   releaseName: ghost
   chart:
